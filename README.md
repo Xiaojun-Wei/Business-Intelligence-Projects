@@ -1,3 +1,3 @@
 # Business-Intelligence-Projects
 
-- Netflix dashboard
+- Netflix dashboard using Tableau
